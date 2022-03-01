@@ -1,0 +1,11 @@
+{
+  "name": "docker-sql-node-boilterplate",
+  "version": "1.0.0",
+  "description": "This is node js boilerplate with express-sql-docker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
